@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If there is a related story or this story is marked as a duplicate, identify the parent story here. --></help>
+    <label><!-- Parent Story --></label>
+    <name>PF_Parent_Story__c</name>
+    <relationshipLabel><!-- Sub Stories --></relationshipLabel>
+</CustomFieldTranslation>

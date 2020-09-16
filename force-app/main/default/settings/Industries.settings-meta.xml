@@ -3,4 +3,6 @@
     <enableAccountScoreEnabled>false</enableAccountScoreEnabled>
     <enableCalcserviceEnabled>false</enableCalcserviceEnabled>
     <enableIndLoyaltyEnabled>false</enableIndLoyaltyEnabled>
+    <enableObjectDetection>false</enableObjectDetection>
+    <enableVisitInventoryEnabled>false</enableVisitInventoryEnabled>
 </IndustriesSettings>

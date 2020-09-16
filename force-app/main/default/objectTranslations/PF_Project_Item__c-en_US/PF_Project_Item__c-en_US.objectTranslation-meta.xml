@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Project Item</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Project Items</value>
+    </caseValues>
+    <recordTypes>
+        <description><!-- Standard pForce record type. --></description>
+        <label><!-- Project Item --></label>
+        <name>PF_Project_Item</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Enter resolution/response and resolution/response date details when closing record. --></errorMessage>
+        <name>Make_Resolution_Response_Time_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- When Project Item Type is Risk or Issue, then Impact and Probability field cannot be blank. --></errorMessage>
+        <name>Risks_and_Issues_Required_Fields</name>
+    </validationRules>
+</CustomObjectTranslation>

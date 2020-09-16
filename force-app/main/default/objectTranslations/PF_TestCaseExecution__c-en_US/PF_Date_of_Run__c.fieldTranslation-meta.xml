@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Provide run date for this execution. --></help>
+    <label><!-- Date of Run --></label>
+    <name>PF_Date_of_Run__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PF_Total_TC_Executed__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Sum of all the Executed Test cases</inlineHelpText>
+    <label>Total TC (Executed)</label>
+    <summarizedField>PF_TestCases__c.PF_Total_Test_Case_Execution__c</summarizedField>
+    <summaryForeignKey>PF_TestCases__c.PF_Story__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

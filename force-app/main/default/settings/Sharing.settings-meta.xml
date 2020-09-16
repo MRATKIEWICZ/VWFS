@@ -8,10 +8,10 @@
     <enableExternalSharingModel>true</enableExternalSharingModel>
     <enableManagerGroups>false</enableManagerGroups>
     <enableManualUserRecordSharing>false</enableManualUserRecordSharing>
+    <enablePartnerSuperUserAccess>false</enablePartnerSuperUserAccess>
     <enablePortalUserCaseSharing>true</enablePortalUserCaseSharing>
     <enablePortalUserVisibility>true</enablePortalUserVisibility>
-    <enableRemoveTMGroupMembership>false</enableRemoveTMGroupMembership>
-    <enableRestrictAccessLookupRecords>true</enableRestrictAccessLookupRecords>
-    <enableSecureGuestAccess>false</enableSecureGuestAccess>
+    <enableRestrictAccessLookupRecords>false</enableRestrictAccessLookupRecords>
+    <enableSecureGuestAccess>true</enableSecureGuestAccess>
     <enableStandardReportVisibility>true</enableStandardReportVisibility>
 </SharingSettings>

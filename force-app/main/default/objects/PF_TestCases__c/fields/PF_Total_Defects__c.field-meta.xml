@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PF_Total_Defects__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>contains Total # defects related to this Test case.</inlineHelpText>
+    <label>Total Defects</label>
+    <summaryFilterItems>
+        <field>PF_Defects__c.PF_Testing_Cycle__c</field>
+        <operation>equals</operation>
+        <value>SIT</value>
+    </summaryFilterItems>
+    <summaryForeignKey>PF_Defects__c.PF_Test_Case__c</summaryForeignKey>
+    <summaryOperation>count</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>
