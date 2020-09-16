@@ -14,6 +14,7 @@
     <columns>copado__Sprint__c</columns>
     <columns>copado__Release__c</columns>
     <columns>LAST_UPDATE</columns>
+    <columns>copado__Environment__c</columns>
     <filterScope>Everything</filterScope>
     <label>All</label>
 </ListView>

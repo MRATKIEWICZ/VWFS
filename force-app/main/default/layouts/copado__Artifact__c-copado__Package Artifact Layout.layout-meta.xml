@@ -16,10 +16,6 @@
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>copado__Artifact_Version__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>copado__Description__c</field>
             </layoutItems>
@@ -28,10 +24,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>RecordTypeId</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copado__Package_Type__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -62,6 +54,10 @@
                 <behavior>Edit</behavior>
                 <field>copado__No_Namespace__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>copado__Artifact_Version__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -73,8 +69,12 @@
                 <field>copado__Sfdc_Login_Url__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>copado__Source_Api_Version__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>copado__Package_Type__c</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
@@ -124,12 +124,39 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
+    <platformActionList>
+        <actionListContext>Record</actionListContext>
+        <platformActionListItems>
+            <actionName>copado__Manage_Metadata</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>0</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>Edit</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>1</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>Delete</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>2</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>copado__Generate_New_Version</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>3</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>copado__Generate_Project_Definition_File</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>4</sortOrder>
+        </platformActionListItems>
+    </platformActionList>
     <relatedLists>
         <excludeButtons>New</excludeButtons>
         <fields>NAME</fields>
         <fields>copado__Version_number__c</fields>
         <fields>copado__Branch__c</fields>
-        <fields>copado__Tag__c</fields>
         <fields>copado__Is_released__c</fields>
         <relatedList>copado__Artifact_Version__c.copado__Artifact__c</relatedList>
     </relatedLists>
@@ -138,10 +165,16 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>copado__Depending_Artifact__c</fields>
+        <fields>copado__Depending_Artifact_Version__c</fields>
+        <fields>copado__Depends_on_the_latest_version__c</fields>
         <relatedList>copado__Artifact_Dependency__c.copado__Dependent_Artifact__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>copado__Dependent_Artifact__c</fields>
+        <fields>copado__Depending_Artifact_Version__c</fields>
+        <fields>copado__Depends_on_the_latest_version__c</fields>
         <relatedList>copado__Artifact_Dependency__c.copado__Depending_Artifact__c</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
@@ -150,7 +183,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h0Y000005Vd9D</masterLabel>
+        <masterLabel>00h5w00000Sl8XB</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
