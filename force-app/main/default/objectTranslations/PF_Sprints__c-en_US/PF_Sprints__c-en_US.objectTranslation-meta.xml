@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Sprint</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Sprints</value>
+    </caseValues>
+    <recordTypes>
+        <description><!-- Standard pForce record type. --></description>
+        <label><!-- Sprint --></label>
+        <name>PF_Sprint</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Start date cannot be greater than end date. --></errorMessage>
+        <name>Start_End_Date_Check</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- PF_Sprint_Status --></label>
+        <name>PF_Sprint_Status</name>
+    </webLinks>
+</CustomObjectTranslation>

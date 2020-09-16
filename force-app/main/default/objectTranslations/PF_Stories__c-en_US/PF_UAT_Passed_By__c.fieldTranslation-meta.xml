@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the user who provided the approval of successful validation during UAT. --></help>
+    <label><!-- UAT Passed By --></label>
+    <name>PF_UAT_Passed_By__c</name>
+    <relationshipLabel><!-- Stories (UAT Passed By) --></relationshipLabel>
+</CustomFieldTranslation>

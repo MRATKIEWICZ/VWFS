@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Story_Status_Reason</fullName>
+    <active>true</active>
+    <description>Requests a reason if a story has been marked as out of scope, duplicate, or cancelled.</description>
+    <errorConditionFormula>AND( OR( ISPICKVAL( PF_Story_Status__c , &#39;Out of Scope&#39;) ,ISPICKVAL( PF_Story_Status__c , &#39;Duplicate&#39;),ISPICKVAL( PF_Story_Status__c , &#39;Cancelled&#39;)) ,  ISBLANK( PF_Story_Status_Reason__c ) )</errorConditionFormula>
+    <errorDisplayField>PF_Story_Status_Reason__c</errorDisplayField>
+    <errorMessage>Provide a brief reason why the story has been marked out of scope, duplicate, or cancelled.</errorMessage>
+</ValidationRule>

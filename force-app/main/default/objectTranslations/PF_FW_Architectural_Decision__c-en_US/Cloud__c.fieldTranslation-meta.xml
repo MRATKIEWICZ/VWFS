@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Cloud --></label>
+    <name>Cloud__c</name>
+    <picklistValues>
+        <masterLabel>Marketing Cloud</masterLabel>
+        <translation><!-- Marketing Cloud --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MuleSoft</masterLabel>
+        <translation><!-- MuleSoft --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sales Cloud</masterLabel>
+        <translation><!-- Sales Cloud --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Service Cloud</masterLabel>
+        <translation><!-- Service Cloud --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>other</masterLabel>
+        <translation><!-- other --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

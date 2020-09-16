@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Provide the Expected result which is expected out of Test case run. --></help>
+    <label><!-- Expected Result --></label>
+    <name>PF_Expected_Result__c</name>
+</CustomFieldTranslation>
