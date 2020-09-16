@@ -141,9 +141,9 @@
         <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
-    <compactLayoutAssignment>PF_Work_Task</compactLayoutAssignment>
+    <compactLayoutAssignment>PF_FW_Com_Time_Sheet</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>This is where project work tasks will be captured within the ProjectForce application.</description>
+    <description>This is where project times will be captured within the ProjectForce application.</description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>true</enableFeeds>
@@ -154,14 +154,14 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ControlledByParent</externalSharingModel>
-    <label>Work Task</label>
+    <label>Time Sheet</label>
     <nameField>
-        <label>Work Task Name</label>
+        <label>Time Sheet Name</label>
         <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>true</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Work Tasks</pluralLabel>
+    <pluralLabel>Time Sheets</pluralLabel>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypeTrackHistory>false</recordTypeTrackHistory>
     <searchLayouts>

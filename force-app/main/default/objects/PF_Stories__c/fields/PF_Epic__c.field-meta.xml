@@ -3,7 +3,7 @@
     <fullName>PF_Epic__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
-    <inlineHelpText>Select the relevant epic for the story.</inlineHelpText>
+    <inlineHelpText>Select the relevant Customer Journey OR the Architecture Decision for the story.</inlineHelpText>
     <label>CJ</label>
     <referenceTo>PF_Epic__c</referenceTo>
     <relationshipLabel>Stories</relationshipLabel>

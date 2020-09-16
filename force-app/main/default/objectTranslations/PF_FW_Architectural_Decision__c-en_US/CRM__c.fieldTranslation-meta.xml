@@ -11,10 +11,6 @@
         <translation><!-- CRM2 --></translation>
     </picklistValues>
     <picklistValues>
-        <masterLabel>None</masterLabel>
-        <translation><!-- None --></translation>
-    </picklistValues>
-    <picklistValues>
         <masterLabel>Other</masterLabel>
         <translation><!-- Other --></translation>
     </picklistValues>
