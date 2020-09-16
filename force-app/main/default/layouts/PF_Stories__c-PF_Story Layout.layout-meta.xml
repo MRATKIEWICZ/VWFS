@@ -247,16 +247,6 @@
     <platformActionList>
         <actionListContext>Record</actionListContext>
         <platformActionListItems>
-            <actionName>PF_Stories__c.PF_Add_To_Sprint</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>4</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>FeedItem.LinkPost</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>5</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
             <actionName>FeedItem.TextPost</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>0</sortOrder>
@@ -275,6 +265,16 @@
             <actionName>PF_Stories__c.PF_New_Project_Item</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>3</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>PF_Stories__c.PF_Add_To_Sprint</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>4</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>FeedItem.LinkPost</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>5</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>FeedItem.PollPost</actionName>
@@ -335,7 +335,7 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>PF_Work_Type__c</fields>
+        <fields>PF_Actual_Hours__c</fields>
         <fields>PF_Priority__c</fields>
         <fields>PF_Assigned_To__c</fields>
         <fields>PF_Work_Task_Status__c</fields>

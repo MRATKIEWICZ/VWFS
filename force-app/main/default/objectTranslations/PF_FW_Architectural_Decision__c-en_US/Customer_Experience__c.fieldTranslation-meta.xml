@@ -3,20 +3,8 @@
     <label><!-- Customer Experience --></label>
     <name>Customer_Experience__c</name>
     <picklistValues>
-        <masterLabel>...</masterLabel>
-        <translation><!-- ... --></translation>
-    </picklistValues>
-    <picklistValues>
-        <masterLabel>A</masterLabel>
-        <translation><!-- A --></translation>
-    </picklistValues>
-    <picklistValues>
-        <masterLabel>B</masterLabel>
-        <translation><!-- B --></translation>
-    </picklistValues>
-    <picklistValues>
-        <masterLabel>C</masterLabel>
-        <translation><!-- C --></translation>
+        <masterLabel>Contract</masterLabel>
+        <translation><!-- Contract --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Usage</masterLabel>
