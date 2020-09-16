@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PF_Probability__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Select the probability for the project item.</inlineHelpText>
+    <label>Probability</label>
+    <required>false</required>
+    <trackFeedHistory>true</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Realized</fullName>
+                <color>#A53711</color>
+                <default>false</default>
+                <label>Realized</label>
+            </value>
+            <value>
+                <fullName>Likely</fullName>
+                <color>#A845DC</color>
+                <default>false</default>
+                <label>Likely</label>
+            </value>
+            <value>
+                <fullName>Moderate</fullName>
+                <color>#E27001</color>
+                <default>true</default>
+                <label>Moderate</label>
+            </value>
+            <value>
+                <fullName>Unlikely</fullName>
+                <color>#78C953</color>
+                <default>false</default>
+                <label>Unlikely</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

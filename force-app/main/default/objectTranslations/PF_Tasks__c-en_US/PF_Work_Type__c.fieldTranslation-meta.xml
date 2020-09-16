@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the type of work task. --></help>
+    <label><!-- Work Type --></label>
+    <name>PF_Work_Type__c</name>
+    <picklistValues>
+        <masterLabel>Apex Class</masterLabel>
+        <translation><!-- Apex Class --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Configuration</masterLabel>
+        <translation><!-- Configuration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Data Migration</masterLabel>
+        <translation><!-- Data Migration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Integration</masterLabel>
+        <translation><!-- Integration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reporting &amp; Visualization</masterLabel>
+        <translation><!-- Reporting &amp; Visualization --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trigger/Trigger helper</masterLabel>
+        <translation><!-- Trigger/Trigger helper --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UI Development</masterLabel>
+        <translation><!-- UI Development --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UX Design</masterLabel>
+        <translation><!-- UX Design --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>VF Page/Component</masterLabel>
+        <translation><!-- VF Page/Component --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Web services/Apex call outs</masterLabel>
+        <translation><!-- Web services/Apex call outs --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

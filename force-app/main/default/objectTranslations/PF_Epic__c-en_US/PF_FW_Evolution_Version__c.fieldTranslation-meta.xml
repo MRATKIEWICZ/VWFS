@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Version of the actual Evolution --></help>
+    <label><!-- Evolution Version --></label>
+    <name>PF_FW_Evolution_Version__c</name>
+    <picklistValues>
+        <masterLabel>v1</masterLabel>
+        <translation><!-- v1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v10</masterLabel>
+        <translation><!-- v10 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v11</masterLabel>
+        <translation><!-- v11 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v12</masterLabel>
+        <translation><!-- v12 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v13</masterLabel>
+        <translation><!-- v13 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v14</masterLabel>
+        <translation><!-- v14 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v15</masterLabel>
+        <translation><!-- v15 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v16</masterLabel>
+        <translation><!-- v16 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v17</masterLabel>
+        <translation><!-- v17 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v18</masterLabel>
+        <translation><!-- v18 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v19</masterLabel>
+        <translation><!-- v19 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v2</masterLabel>
+        <translation><!-- v2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v20</masterLabel>
+        <translation><!-- v20 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v3</masterLabel>
+        <translation><!-- v3 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v4</masterLabel>
+        <translation><!-- v4 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v5</masterLabel>
+        <translation><!-- v5 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v6</masterLabel>
+        <translation><!-- v6 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v7</masterLabel>
+        <translation><!-- v7 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v8</masterLabel>
+        <translation><!-- v8 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>v9</masterLabel>
+        <translation><!-- v9 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

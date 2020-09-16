@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- CRM --></label>
+    <name>PF_FW_CRM__c</name>
+    <picklistValues>
+        <masterLabel>CRM1</masterLabel>
+        <translation><!-- CRM1 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>CRM2</masterLabel>
+        <translation><!-- CRM2 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

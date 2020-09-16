@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Provide a background to the project. --></help>
+    <label><!-- Background (History) --></label>
+    <name>PF_Background_History__c</name>
+</CustomFieldTranslation>

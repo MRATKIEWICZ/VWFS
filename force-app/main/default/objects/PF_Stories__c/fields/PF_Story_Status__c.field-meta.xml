@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PF_Story_Status__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Select the status for the story.</inlineHelpText>
+    <label>Story Status</label>
+    <required>false</required>
+    <trackFeedHistory>true</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>New</fullName>
+                <color>#0B6FCE</color>
+                <default>true</default>
+                <label>New</label>
+            </value>
+            <value>
+                <fullName>Confirmed</fullName>
+                <color>#78C953</color>
+                <default>false</default>
+                <label>Confirmed</label>
+            </value>
+            <value>
+                <fullName>In Design</fullName>
+                <color>#E27001</color>
+                <default>false</default>
+                <label>In Design</label>
+            </value>
+            <value>
+                <fullName>Completed</fullName>
+                <color>#A845DC</color>
+                <default>false</default>
+                <label>Completed</label>
+            </value>
+            <value>
+                <fullName>In Progress</fullName>
+                <color>#F3D904</color>
+                <default>false</default>
+                <label>In Progress</label>
+            </value>
+            <value>
+                <fullName>Ready for Playback</fullName>
+                <color>#A53711</color>
+                <default>false</default>
+                <label>Ready for Playback</label>
+            </value>
+            <value>
+                <fullName>Playback Approved</fullName>
+                <color>#66E9BD</color>
+                <default>false</default>
+                <label>Playback Approved</label>
+            </value>
+            <value>
+                <fullName>Ready for UAT</fullName>
+                <color>#0B24BE</color>
+                <default>false</default>
+                <label>Ready for UAT</label>
+            </value>
+            <value>
+                <fullName>UAT Approved</fullName>
+                <color>#419249</color>
+                <default>false</default>
+                <label>UAT Approved</label>
+            </value>
+            <value>
+                <fullName>UAT Failed</fullName>
+                <color>#B6E32E</color>
+                <default>false</default>
+                <label>UAT Failed</label>
+            </value>
+            <value>
+                <fullName>Migrate to Prod</fullName>
+                <color>#641CCF</color>
+                <default>false</default>
+                <label>Migrate to Prod</label>
+            </value>
+            <value>
+                <fullName>Promoted to Prod</fullName>
+                <color>#F96FB7</color>
+                <default>false</default>
+                <label>Promoted to Prod</label>
+            </value>
+            <value>
+                <fullName>Approved in Prod</fullName>
+                <color>#2F5D85</color>
+                <default>false</default>
+                <label>Approved in Prod</label>
+            </value>
+            <value>
+                <fullName>Blocked</fullName>
+                <color>#AFCADF</color>
+                <default>false</default>
+                <label>Blocked</label>
+            </value>
+            <value>
+                <fullName>Duplicate</fullName>
+                <color>#8F6429</color>
+                <default>false</default>
+                <label>Duplicate</label>
+            </value>
+            <value>
+                <fullName>Cancelled</fullName>
+                <color>#EFAE73</color>
+                <default>false</default>
+                <label>Cancelled</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

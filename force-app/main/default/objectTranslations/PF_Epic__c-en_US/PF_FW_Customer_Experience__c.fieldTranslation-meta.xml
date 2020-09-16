@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Customer Experience --></label>
+    <name>PF_FW_Customer_Experience__c</name>
+    <picklistValues>
+        <masterLabel>...</masterLabel>
+        <translation><!-- ... --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>A</masterLabel>
+        <translation><!-- A --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>B</masterLabel>
+        <translation><!-- B --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>C</masterLabel>
+        <translation><!-- C --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Usage</masterLabel>
+        <translation><!-- Usage --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
