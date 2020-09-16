@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Count of Test cases which Passed in first run. --></help>
+    <label><!-- First Pass Count --></label>
+    <name>PF_First_Pass_Count__c</name>
+</CustomFieldTranslation>

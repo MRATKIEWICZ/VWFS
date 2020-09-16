@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Strategic Theme --></label>
+    <name>PF_FW_CJ_Strategic_Theme__c</name>
+    <picklistValues>
+        <masterLabel>Customer Loyalty</masterLabel>
+        <translation><!-- Customer Loyalty --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dealer Enumeration</masterLabel>
+        <translation><!-- Dealer Enumeration --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Direct Sales</masterLabel>
+        <translation><!-- Direct Sales --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dynamic Pricing</masterLabel>
+        <translation><!-- Dynamic Pricing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Flexible Products</masterLabel>
+        <translation><!-- Flexible Products --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

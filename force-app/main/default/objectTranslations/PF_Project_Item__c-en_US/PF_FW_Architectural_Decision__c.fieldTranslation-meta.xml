@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the related AD that this project item impacts. --></help>
+    <label><!-- Architectural Decision --></label>
+    <name>PF_FW_Architectural_Decision__c</name>
+    <relationshipLabel><!-- Project Items --></relationshipLabel>
+</CustomFieldTranslation>

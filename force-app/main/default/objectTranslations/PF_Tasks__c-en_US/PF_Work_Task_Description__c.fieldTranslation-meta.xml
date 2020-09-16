@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Provide a detailed inventory of the changes being requested in this work task. --></help>
+    <label><!-- Work Task Description --></label>
+    <name>PF_Work_Task_Description__c</name>
+</CustomFieldTranslation>

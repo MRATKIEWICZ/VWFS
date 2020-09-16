@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the relevant type for the project item. --></help>
+    <label><!-- Type --></label>
+    <name>PF_Type__c</name>
+    <picklistValues>
+        <masterLabel>Action Item</masterLabel>
+        <translation><!-- Action Item --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Assumption</masterLabel>
+        <translation><!-- Assumption --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dependency</masterLabel>
+        <translation><!-- Dependency --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Issue</masterLabel>
+        <translation><!-- Issue --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Key Decision</masterLabel>
+        <translation><!-- Key Decision --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Open Question</masterLabel>
+        <translation><!-- Open Question --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Risk</masterLabel>
+        <translation><!-- Risk --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

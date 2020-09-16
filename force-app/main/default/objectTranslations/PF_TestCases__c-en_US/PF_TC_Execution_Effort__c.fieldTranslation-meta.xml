@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Provide effort which is required to Execute Test case (In Hours) --></help>
+    <label><!-- TC Execution Effort --></label>
+    <name>PF_TC_Execution_Effort__c</name>
+</CustomFieldTranslation>
