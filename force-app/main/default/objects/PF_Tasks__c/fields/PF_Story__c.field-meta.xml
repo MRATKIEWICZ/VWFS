@@ -5,7 +5,6 @@
     <inlineHelpText>Select the related story for this work task.</inlineHelpText>
     <label>Story</label>
     <referenceTo>PF_Stories__c</referenceTo>
-    <relationshipLabel>Work Tasks</relationshipLabel>
     <relationshipName>Tasks</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
