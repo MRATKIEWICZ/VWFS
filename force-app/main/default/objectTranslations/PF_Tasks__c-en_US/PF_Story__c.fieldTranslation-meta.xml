@@ -3,5 +3,5 @@
     <help><!-- Select the related story for this work task. --></help>
     <label><!-- Story --></label>
     <name>PF_Story__c</name>
-    <relationshipLabel><!-- Work Tasks --></relationshipLabel>
+    <relationshipLabel><!-- Time Sheets --></relationshipLabel>
 </CustomFieldTranslation>

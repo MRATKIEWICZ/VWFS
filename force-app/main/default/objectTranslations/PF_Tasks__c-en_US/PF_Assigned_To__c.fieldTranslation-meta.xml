@@ -3,5 +3,5 @@
     <help><!-- Select the person responsible for this work task. --></help>
     <label><!-- Assigned To --></label>
     <name>PF_Assigned_To__c</name>
-    <relationshipLabel><!-- Work Tasks --></relationshipLabel>
+    <relationshipLabel><!-- Time Sheets --></relationshipLabel>
 </CustomFieldTranslation>

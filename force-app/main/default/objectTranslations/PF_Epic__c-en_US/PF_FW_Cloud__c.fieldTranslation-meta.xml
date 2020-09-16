@@ -3,8 +3,20 @@
     <label><!-- Cloud --></label>
     <name>PF_FW_Cloud__c</name>
     <picklistValues>
-        <masterLabel>Marketnig Cloud</masterLabel>
-        <translation><!-- Marketnig Cloud --></translation>
+        <masterLabel>Asset</masterLabel>
+        <translation><!-- Asset --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Community</masterLabel>
+        <translation><!-- Community --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fast Track</masterLabel>
+        <translation><!-- Fast Track --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Marketing</masterLabel>
+        <translation><!-- Marketing --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>MuleSoft</masterLabel>
@@ -15,11 +27,7 @@
         <translation><!-- Other --></translation>
     </picklistValues>
     <picklistValues>
-        <masterLabel>Sales Cloud</masterLabel>
-        <translation><!-- Sales Cloud --></translation>
-    </picklistValues>
-    <picklistValues>
-        <masterLabel>Service Cloud</masterLabel>
-        <translation><!-- Service Cloud --></translation>
+        <masterLabel>Sales</masterLabel>
+        <translation><!-- Sales --></translation>
     </picklistValues>
 </CustomFieldTranslation>
