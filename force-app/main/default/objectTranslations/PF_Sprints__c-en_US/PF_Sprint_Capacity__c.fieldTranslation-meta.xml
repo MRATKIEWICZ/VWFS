@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The number of story points for a given sprint that will allow the team complete a sprint. Sprint Capacity is based off the total number of Story Points for a sprint. --></help>
+    <label><!-- Sprint Capacity --></label>
+    <name>PF_Sprint_Capacity__c</name>
+</CustomFieldTranslation>

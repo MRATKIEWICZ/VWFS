@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the Test execution Type. --></help>
+    <label><!-- Test Execution Type --></label>
+    <name>PF_Test_Execution_Type__c</name>
+    <picklistValues>
+        <masterLabel>Prod</masterLabel>
+        <translation><!-- Prod --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SIT</masterLabel>
+        <translation><!-- SIT --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UAT</masterLabel>
+        <translation><!-- UAT --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unit</masterLabel>
+        <translation><!-- Unit --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

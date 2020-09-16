@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;pre&gt;
+&lt;code&gt;&amp;lt;script language=&amp;quot;JavaScript&amp;quot;&amp;gt;
+window.location.replace(&amp;quot;/apex/&lt;/code&gt;&lt;a href=&quot;https://pforcedemo.my.salesforce.com/06636000002Si2q&quot;&gt;PF_Homepage&lt;/a&gt;&lt;code&gt;&amp;quot;);
+&amp;lt;script&amp;gt;&lt;/code&gt;&lt;/pre&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>wide</width>
+</HomePageComponent>

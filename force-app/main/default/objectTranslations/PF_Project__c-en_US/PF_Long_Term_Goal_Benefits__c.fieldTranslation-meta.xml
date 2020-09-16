@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Provide a summary of the long term goal and benefits. --></help>
+    <label><!-- Long Term Goal (Benefits) --></label>
+    <name>PF_Long_Term_Goal_Benefits__c</name>
+</CustomFieldTranslation>

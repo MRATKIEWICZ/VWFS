@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- It shows total defects related to this Sprint --></help>
+    <label><!-- Total Defects --></label>
+    <name>PF_Total_Defects__c</name>
+</CustomFieldTranslation>
