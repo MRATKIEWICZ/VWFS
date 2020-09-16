@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Frequency</fullName>
+    <inlineHelpText>Der Zeitraum zwischen den Arbeitsaufträgen des Plans. Die Einheit wird in &quot;Art der Häufigkeit&quot; angegeben.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

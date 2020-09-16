@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GenerationTimeframe</fullName>
+    <inlineHelpText>Gibt an, wie weit im Voraus Arbeitsaufträge in jedem Batch generiert werden. Die Einheit wird in &quot;Generierungs-Zeitraumtyp&quot; angegeben.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

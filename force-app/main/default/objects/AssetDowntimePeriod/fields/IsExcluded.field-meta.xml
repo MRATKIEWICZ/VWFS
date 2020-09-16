@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsExcluded</fullName>
+    <inlineHelpText>Wenn das Kontrollkästchen aktiviert ist, wird dieser Datensatz aus Berechnungen zur Verfügbarkeit und Zuverlässigkeit ausgeschlossen, da er sich außerhalb des Startdatums und des Enddatums des Betriebszeit-Datensatzes für diesen Vermögenswert befindet. Schreibgeschützt.</inlineHelpText>
+</CustomField>

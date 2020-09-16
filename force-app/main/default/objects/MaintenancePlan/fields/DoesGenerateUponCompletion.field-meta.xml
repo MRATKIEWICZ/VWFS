@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DoesGenerateUponCompletion</fullName>
+    <inlineHelpText>Geben Sie an, ob der nächste Batch generiert werden soll, sobald der letzte Arbeitsauftrag im vorigen Batch abgeschlossen ist.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

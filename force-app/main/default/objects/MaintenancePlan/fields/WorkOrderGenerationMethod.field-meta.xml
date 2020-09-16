@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WorkOrderGenerationMethod</fullName>
+    <inlineHelpText>Geben Sie an, wie Arbeitsaufträge generiert werden, wenn dem Wartungsplan mehrere Datenbestände zugeordnet sind.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>
