@@ -335,7 +335,7 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>PF_Work_Type__c</fields>
+        <fields>PF_Actual_Hours__c</fields>
         <fields>PF_Priority__c</fields>
         <fields>PF_Assigned_To__c</fields>
         <fields>PF_Work_Task_Status__c</fields>

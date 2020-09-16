@@ -12,5 +12,5 @@
         <operation>equals</operation>
         <value>Yes</value>
     </filters>
-    <label>All Epics Assigned To Me</label>
+    <label>All Customer Journeys Assigned To Me</label>
 </ListView>

@@ -13,29 +13,14 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
+                <fullName>Contract</fullName>
+                <default>false</default>
+                <label>Contract</label>
+            </value>
+            <value>
                 <fullName>Usage</fullName>
                 <default>false</default>
                 <label>Usage</label>
-            </value>
-            <value>
-                <fullName>A</fullName>
-                <default>false</default>
-                <label>A</label>
-            </value>
-            <value>
-                <fullName>B</fullName>
-                <default>false</default>
-                <label>B</label>
-            </value>
-            <value>
-                <fullName>C</fullName>
-                <default>false</default>
-                <label>C</label>
-            </value>
-            <value>
-                <fullName>...</fullName>
-                <default>false</default>
-                <label>...</label>
             </value>
         </valueSetDefinition>
     </valueSet>
