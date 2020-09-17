@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Number of SIT test case excecutions --></help>
-    <label><!-- Total QA/SIT Execution --></label>
-    <name>PF_Total_Test_Case_Execution__c</name>
-</CustomFieldTranslation>

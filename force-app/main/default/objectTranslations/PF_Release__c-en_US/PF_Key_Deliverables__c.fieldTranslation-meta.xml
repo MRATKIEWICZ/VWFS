@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- This describes the Key deliverables/Outcome for the release. --></help>
-    <label><!-- Key Deliverables --></label>
-    <name>PF_Key_Deliverables__c</name>
-</CustomFieldTranslation>

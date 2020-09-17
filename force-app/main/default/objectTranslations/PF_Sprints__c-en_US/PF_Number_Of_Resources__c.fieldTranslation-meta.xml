@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Number of people assigned to Sprint. --></help>
-    <label><!-- Number Of Resources --></label>
-    <name>PF_Number_Of_Resources__c</name>
-</CustomFieldTranslation>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Leverage this field to help with filtering list views for those identified in the assigned to field. --></help>
-    <label><!-- Work Task Current User --></label>
-    <name>PF_Work_Task_Current_User__c</name>
-</CustomFieldTranslation>
