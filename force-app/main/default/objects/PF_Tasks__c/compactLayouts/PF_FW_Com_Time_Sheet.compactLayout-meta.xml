@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>PF_FW_Com_Time_Sheet</fullName>
-    <fields>PF_Assigned_To__c</fields>
-    <fields>PF_Story__c</fields>
-    <fields>PF_Actual_Hours__c</fields>
-    <fields>PF_Actual_Start_Date__c</fields>
-    <label>Time Sheet</label>
-</CompactLayout>

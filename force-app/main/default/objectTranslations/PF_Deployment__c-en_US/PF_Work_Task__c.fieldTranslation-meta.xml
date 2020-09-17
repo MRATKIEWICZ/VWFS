@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Worktask through which this component is related. --></help>
-    <label><!-- Work Task --></label>
-    <name>PF_Work_Task__c</name>
-    <relationshipLabel><!-- Deployment Components --></relationshipLabel>
-</CustomFieldTranslation>

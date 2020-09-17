@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select the user who provided the approval of successful validation in production. --></help>
-    <label><!-- Approved in Production By --></label>
-    <name>PF_Approved_in_Production_By__c</name>
-    <relationshipLabel><!-- Stories (Approved in Production By) --></relationshipLabel>
-</CustomFieldTranslation>

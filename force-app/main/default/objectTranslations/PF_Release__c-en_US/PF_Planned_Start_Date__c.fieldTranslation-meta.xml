@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select the planned start date for the release --></help>
-    <label><!-- Planned Start Date --></label>
-    <name>PF_Planned_Start_Date__c</name>
-</CustomFieldTranslation>
