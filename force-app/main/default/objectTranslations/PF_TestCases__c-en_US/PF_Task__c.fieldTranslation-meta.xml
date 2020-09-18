@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select the Task against which this test case is written --></help>
-    <label><!-- Task --></label>
-    <name>PF_Task__c</name>
-    <relationshipLabel><!-- Test Cases --></relationshipLabel>
-</CustomFieldTranslation>

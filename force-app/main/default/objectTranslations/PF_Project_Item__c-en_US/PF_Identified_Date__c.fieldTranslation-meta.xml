@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select the date in which this project item was identified. --></help>
-    <label><!-- Identified Date --></label>
-    <name>PF_Identified_Date__c</name>
-</CustomFieldTranslation>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select Test case against which this Test case step is written. --></help>
-    <label><!-- Test Case --></label>
-    <name>PF_Test_Case__c</name>
-    <relationshipLabel><!-- Test Case Steps --></relationshipLabel>
-</CustomFieldTranslation>
