@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Provide the Test case description --></help>
-    <label><!-- Step Description --></label>
-    <name>PF_Step_Description__c</name>
-</CustomFieldTranslation>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select related defect (if component needs to deploy against defect). --></help>
-    <label><!-- Defect --></label>
-    <name>PF_Defect__c</name>
-    <relationshipLabel><!-- Deployment Components --></relationshipLabel>
-</CustomFieldTranslation>

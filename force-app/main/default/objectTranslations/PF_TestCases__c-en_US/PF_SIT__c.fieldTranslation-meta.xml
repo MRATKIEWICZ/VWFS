@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select this if this Test case is related to QA/SIT . --></help>
-    <label><!-- QA/SIT --></label>
-    <name>PF_SIT__c</name>
-</CustomFieldTranslation>
