@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select this if this Test case is related to regression Test. --></help>
-    <label><!-- Regression --></label>
-    <name>PF_Regression__c</name>
-</CustomFieldTranslation>

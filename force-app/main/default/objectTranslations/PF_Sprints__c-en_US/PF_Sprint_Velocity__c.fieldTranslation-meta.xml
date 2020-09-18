@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Sprint Velocity is the optimized burn down rate. Velocity = Sprint Capacity / Number of Business Days in Sprint. --></help>
-    <label><!-- Sprint Velocity --></label>
-    <name>PF_Sprint_Velocity__c</name>
-</CustomFieldTranslation>
